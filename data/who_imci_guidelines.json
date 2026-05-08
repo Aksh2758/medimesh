@@ -1,0 +1,152 @@
+[
+  {
+    "id": "imci_001",
+    "category": "danger_signs",
+    "text": "General danger signs requiring immediate referral: child is unable to drink or breastfeed, child vomits everything, child has had convulsions during current illness, child is lethargic or unconscious. Any one of these signs means the child is seriously ill and must be referred urgently to a hospital.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_002",
+    "category": "danger_signs",
+    "text": "Additional general danger signs: child has a stiff neck (sign of meningitis), bulging fontanelle in infants under 18 months (sign of raised intracranial pressure). These require emergency referral with pre-referral treatment.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_003",
+    "category": "fever",
+    "text": "Classify fever: VERY SEVERE FEBRILE DISEASE if any general danger sign, stiff neck, or bulging fontanelle — refer urgently. MALARIA if fever and positive RDT or malaria endemic area — treat with artemisinin combination therapy. FEVER — LOCAL BACTERIAL INFECTION if fever with identifiable focus (ear, throat, skin). Advise caregiver to return if child gets worse.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_004",
+    "category": "fever",
+    "text": "Malaria treatment in India: uncomplicated falciparum malaria — Artesunate + Amodiaquine (AS+AQ) for 3 days OR Artemether-Lumefantrine (AL). Severe malaria — IV Artesunate, refer immediately. Vivax malaria — Chloroquine for 3 days + Primaquine for 14 days (check G6PD status before primaquine).",
+    "source": "National Vector Borne Disease Control Programme, India"
+  },
+  {
+    "id": "imci_005",
+    "category": "fever",
+    "text": "Dengue warning signs requiring urgent referral: severe abdominal pain, persistent vomiting, rapid breathing, bleeding gums, fatigue, restlessness, liver enlargement >2cm, rising haematocrit with rapid decrease in platelet count. Dengue shock syndrome: cold clammy skin, pulse pressure <20mmHg.",
+    "source": "WHO Dengue Guidelines 2012"
+  },
+  {
+    "id": "imci_006",
+    "category": "cough_breathing",
+    "text": "Classify cough or difficult breathing: SEVERE PNEUMONIA if chest indrawing or any general danger sign — give first dose amoxicillin and refer urgently. PNEUMONIA if fast breathing (>=50 breaths/min age 2-11 months; >=40 breaths/min age 12 months-5 years) — treat with oral amoxicillin 40mg/kg/day for 5 days. NO PNEUMONIA if no fast breathing, no chest indrawing — soothe throat with safe remedy.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_007",
+    "category": "cough_breathing",
+    "text": "Fast breathing cut-offs by age: under 2 months: 60 or more breaths per minute. 2-11 months: 50 or more breaths per minute. 12 months to 5 years: 40 or more breaths per minute. Count breaths for one full minute when child is calm.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_008",
+    "category": "cough_breathing",
+    "text": "Wheezing in children: if wheezing present, give rapid-acting bronchodilator (salbutamol via spacer) and reassess after 20-30 minutes. If wheezing resolves, classify for cough and breathing. Persistent wheezing with chest indrawing — refer as severe pneumonia. Give first dose prednisolone for severe wheeze.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_009",
+    "category": "diarrhoea",
+    "text": "Classify diarrhoea: SEVERE DEHYDRATION if two of: lethargic/unconscious, sunken eyes, not able to drink/drinks poorly, skin pinch goes back very slowly — give ORS and refer urgently. SOME DEHYDRATION if two of: restless/irritable, sunken eyes, drinks eagerly/thirsty, skin pinch goes back slowly — give ORS in clinic for 4 hours. NO DEHYDRATION if not enough signs — give ORS at home.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_010",
+    "category": "diarrhoea",
+    "text": "ORS preparation and use: dissolve one ORS sachet in 1 litre of clean water. Give 75ml/kg over 4 hours for some dehydration. Continue breastfeeding. Give zinc 20mg/day for 10-14 days (10mg for under 6 months) to all children with diarrhoea — reduces severity and duration.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_011",
+    "category": "diarrhoea",
+    "text": "Persistent diarrhoea (14 days or more): if with dehydration — refer urgently. If without dehydration — counsel on nutrition, give multivitamins and minerals for 14 days, follow up in 5 days. Bloody diarrhoea (dysentery): treat with ciprofloxacin 15mg/kg twice daily for 3 days.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_012",
+    "category": "malnutrition",
+    "text": "Classify nutritional status: SEVERE ACUTE MALNUTRITION if visible severe wasting, or oedema of both feet, or MUAC <115mm, or weight-for-height <-3 SD — refer to facility with therapeutic feeding. MODERATE ACUTE MALNUTRITION if MUAC 115-124mm or weight-for-height -3 to -2 SD — counsel on feeding, supplement with ready-to-use supplementary food.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_013",
+    "category": "malnutrition",
+    "text": "Severe acute malnutrition management: check for hypoglycaemia (blood glucose <3mmol/L) — give 50ml of 10% glucose orally. Treat hypothermia — keep warm. Start F-75 therapeutic milk in phase 1 if available. Give amoxicillin even if no obvious infection. Emergency transfer to inpatient facility.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_014",
+    "category": "ear",
+    "text": "Ear problems: MASTOIDITIS if tender swelling behind the ear — refer urgently, give first dose amoxicillin and paracetamol. ACUTE EAR INFECTION if ear pain or discharge for less than 14 days — give amoxicillin for 5 days and paracetamol for pain. CHRONIC EAR INFECTION if discharge for 14 days or more — dry the ear by wicking, topical quinolone ear drops.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_015",
+    "category": "throat",
+    "text": "Sore throat: streptococcal tonsillitis if pus on tonsils with no cough — treat with amoxicillin 50mg/kg/day for 10 days to prevent rheumatic fever. Refer if airway compromise, drooling, neck stiffness, or trismus (cannot open mouth). Viral pharyngitis — symptomatic treatment only, no antibiotics.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_016",
+    "category": "neonatal",
+    "text": "Young infant danger signs (age 0-2 months) — any of these require urgent referral: convulsions, fast breathing (>=60/min), severe chest indrawing, nasal flaring, grunting, bulging fontanelle, not feeding at all, lethargic. Give first dose IM ampicillin + gentamicin before referral.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_017",
+    "category": "neonatal",
+    "text": "Neonatal sepsis signs: pustules or skin infection — if few pustules, treat with amoxicillin. If many pustules or umbilical redness extending to skin — refer urgently. Umbilical cord: red, swollen, draining pus — local infection if not extending, clean and apply gentian violet.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_018",
+    "category": "anaemia",
+    "text": "Classify anaemia by pallor: SEVERE ANAEMIA if severe palmar pallor — refer urgently (Hb likely <7g/dL). ANAEMIA if some palmar pallor — give iron supplementation (ferrous sulphate 3mg/kg/day elemental iron) for 3 months, treat for malaria if positive, check for hookworm.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_019",
+    "category": "convulsions",
+    "text": "Convulsions management: ensure airway — place child on side, do not put anything in mouth. Time the seizure. If seizure >5 minutes — give diazepam 0.5mg/kg rectally or midazolam 0.2mg/kg buccally. Check blood glucose — if <3mmol/L give 2ml/kg of 10% dextrose IV. Refer all children who have had convulsions.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_020",
+    "category": "immunisation",
+    "text": "India immunisation schedule key vaccines: BCG at birth, OPV at birth/6/10/14 weeks/9-12 months, Pentavalent (DPT+HepB+Hib) at 6/10/14 weeks, PCV at 6/14 weeks and 9 months, Rotavirus at 6/10 weeks, MR at 9 months and 16-24 months, JE in endemic areas. Check every visit — give missed vaccines.",
+    "source": "National Immunisation Schedule India 2023"
+  },
+  {
+    "id": "imci_021",
+    "category": "referral",
+    "text": "Pre-referral treatment before sending to hospital: give first dose of appropriate antibiotic. Treat fever with paracetamol. Treat convulsions with diazepam/midazolam. Prevent hypoglycaemia — give breastmilk or sugar water. Keep child warm. Give ORS for dehydration if child can drink. Write a referral note with all findings and treatment given.",
+    "source": "WHO IMCI Guidelines 2014"
+  },
+  {
+    "id": "imci_022",
+    "category": "vital_signs",
+    "text": "Normal vital sign ranges by age — Heart rate: newborn 100-160bpm, 1-11 months 100-150bpm, 1-2 years 90-140bpm, 3-5 years 80-120bpm. Respiratory rate: newborn 40-60/min, 1-11 months 30-60/min, 1-3 years 24-40/min, 3-6 years 22-34/min. Temperature: normal 36.5-37.5°C; fever >=38°C; high fever >=39°C.",
+    "source": "Paediatric Advanced Life Support Reference"
+  },
+  {
+    "id": "imci_023",
+    "category": "danger_signs_adult",
+    "text": "Adult danger signs requiring immediate referral: altered consciousness or confusion, inability to stand/walk, severe respiratory distress (cannot speak in full sentences), cyanosis (bluish discolouration of lips/fingertips), severe hypotension (systolic <90mmHg), uncontrolled haemorrhage.",
+    "source": "WHO Emergency Triage Assessment and Treatment (ETAT+)"
+  },
+  {
+    "id": "imci_024",
+    "category": "maternal",
+    "text": "Obstetric danger signs requiring emergency referral: heavy vaginal bleeding (more than a pad per hour), severe headache with blurred vision (pre-eclampsia), severe abdominal pain, convulsions, fever with vaginal discharge or foul smell, prolonged labour (>12 hours active phase), fetal heart rate <100 or >180 bpm.",
+    "source": "WHO Managing Complications in Pregnancy and Childbirth 2017"
+  },
+  {
+    "id": "imci_025",
+    "category": "tuberculosis",
+    "text": "TB screening in adults: cough for 2 weeks or more, weight loss, night sweats, fever. If TB suspected, collect 2 sputum samples (spot and early morning) for Xpert MTB/RIF. Refer for chest X-ray. Do not start empirical TB treatment at PHC level — refer to RNTCP facility. Screen household contacts.",
+    "source": "National TB Elimination Programme India 2023"
+  }
+]

@@ -1,0 +1,214 @@
+{
+  "interactions": [
+    {
+      "drug_a": "metformin",
+      "drug_b": "iodinated contrast",
+      "severity": "HIGH",
+      "effect": "Risk of lactic acidosis and acute kidney injury. Stop metformin 48h before contrast administration.",
+      "action": "HOLD metformin before imaging. Monitor renal function."
+    },
+    {
+      "drug_a": "warfarin",
+      "drug_b": "aspirin",
+      "severity": "HIGH",
+      "effect": "Significantly increased bleeding risk. Potentiation of anticoagulant effect.",
+      "action": "Avoid combination unless explicitly instructed by cardiologist. Monitor INR closely."
+    },
+    {
+      "drug_a": "methotrexate",
+      "drug_b": "ibuprofen",
+      "severity": "HIGH",
+      "effect": "NSAIDs reduce methotrexate clearance, causing toxic accumulation.",
+      "action": "Avoid NSAIDs in patients on methotrexate. Use paracetamol instead."
+    },
+    {
+      "drug_a": "digoxin",
+      "drug_b": "amiodarone",
+      "severity": "HIGH",
+      "effect": "Amiodarone increases digoxin plasma levels by 70-100%, risking toxicity.",
+      "action": "Reduce digoxin dose by 50% when starting amiodarone. Monitor ECG and digoxin levels."
+    },
+    {
+      "drug_a": "clopidogrel",
+      "drug_b": "omeprazole",
+      "severity": "MODERATE",
+      "effect": "Omeprazole inhibits CYP2C19, reducing clopidogrel antiplatelet effect.",
+      "action": "Prefer pantoprazole or ranitidine over omeprazole in patients on clopidogrel."
+    },
+    {
+      "drug_a": "ciprofloxacin",
+      "drug_b": "antacid",
+      "severity": "MODERATE",
+      "effect": "Antacids (calcium, magnesium, aluminium) chelate ciprofloxacin, reducing absorption by up to 90%.",
+      "action": "Administer ciprofloxacin 2 hours before or 6 hours after antacids."
+    },
+    {
+      "drug_a": "phenytoin",
+      "drug_b": "fluconazole",
+      "severity": "HIGH",
+      "effect": "Fluconazole inhibits phenytoin metabolism, causing toxic phenytoin levels.",
+      "action": "Monitor phenytoin levels closely if combination unavoidable. Reduce phenytoin dose."
+    },
+    {
+      "drug_a": "lithium",
+      "drug_b": "ibuprofen",
+      "severity": "HIGH",
+      "effect": "NSAIDs reduce renal lithium clearance, leading to lithium toxicity.",
+      "action": "Avoid NSAIDs in patients on lithium. Use paracetamol. Monitor lithium levels."
+    },
+    {
+      "drug_a": "ssri",
+      "drug_b": "tramadol",
+      "severity": "HIGH",
+      "effect": "Risk of serotonin syndrome — agitation, hyperthermia, tachycardia, seizures.",
+      "action": "Avoid combination. If needed, use lowest tramadol dose with close monitoring."
+    },
+    {
+      "drug_a": "rifampicin",
+      "drug_b": "oral contraceptive",
+      "severity": "HIGH",
+      "effect": "Rifampicin induces CYP3A4, drastically reducing contraceptive pill efficacy.",
+      "action": "Advise additional contraception barrier method throughout TB treatment and 4 weeks after."
+    },
+    {
+      "drug_a": "rifampicin",
+      "drug_b": "warfarin",
+      "severity": "HIGH",
+      "effect": "Rifampicin induces warfarin metabolism, markedly reducing anticoagulant effect.",
+      "action": "Increase warfarin dose and monitor INR frequently when starting or stopping rifampicin."
+    },
+    {
+      "drug_a": "atenolol",
+      "drug_b": "verapamil",
+      "severity": "HIGH",
+      "effect": "Combination causes severe bradycardia, heart block, and hypotension.",
+      "action": "Avoid combination. If essential, use under cardiac monitoring only."
+    },
+    {
+      "drug_a": "metformin",
+      "drug_b": "alcohol",
+      "severity": "MODERATE",
+      "effect": "Alcohol potentiates metformin-associated lactic acidosis risk.",
+      "action": "Counsel patients on metformin to avoid heavy alcohol use."
+    },
+    {
+      "drug_a": "ace inhibitor",
+      "drug_b": "potassium supplement",
+      "severity": "MODERATE",
+      "effect": "ACE inhibitors increase potassium retention; combination risks hyperkalaemia.",
+      "action": "Monitor serum potassium. Avoid routine potassium supplementation with ACE inhibitors."
+    },
+    {
+      "drug_a": "fluoroquinolone",
+      "drug_b": "steroid",
+      "severity": "MODERATE",
+      "effect": "Increased risk of tendon rupture, especially Achilles tendon, in elderly patients.",
+      "action": "Avoid fluoroquinolones in patients on steroids where alternatives exist. Warn patient."
+    },
+    {
+      "drug_a": "chloroquine",
+      "drug_b": "antacid",
+      "severity": "MODERATE",
+      "effect": "Antacids reduce chloroquine absorption significantly.",
+      "action": "Separate doses by at least 4 hours."
+    },
+    {
+      "drug_a": "isoniazid",
+      "drug_b": "phenytoin",
+      "severity": "MODERATE",
+      "effect": "Isoniazid inhibits phenytoin metabolism, increasing phenytoin toxicity risk.",
+      "action": "Monitor phenytoin levels in TB patients. Reduce phenytoin dose if needed."
+    },
+    {
+      "drug_a": "gentamicin",
+      "drug_b": "furosemide",
+      "severity": "HIGH",
+      "effect": "Both are ototoxic and nephrotoxic; combination greatly amplifies risk.",
+      "action": "Avoid concurrent use. If essential, use minimum doses and monitor renal function + hearing."
+    },
+    {
+      "drug_a": "glibenclamide",
+      "drug_b": "fluconazole",
+      "severity": "HIGH",
+      "effect": "Fluconazole inhibits glibenclamide metabolism, causing severe hypoglycaemia.",
+      "action": "Monitor blood glucose closely. Reduce glibenclamide dose or switch antifungal."
+    },
+    {
+      "drug_a": "paracetamol",
+      "drug_b": "alcohol",
+      "severity": "MODERATE",
+      "effect": "Chronic alcohol use increases hepatotoxicity risk from paracetamol.",
+      "action": "Limit paracetamol to 2g/day in patients with regular alcohol use."
+    },
+    {
+      "drug_a": "iron supplement",
+      "drug_b": "tetracycline",
+      "severity": "MODERATE",
+      "effect": "Iron chelates tetracycline, reducing antibiotic absorption by 50-90%.",
+      "action": "Separate doses by at least 3 hours. Take tetracycline first."
+    },
+    {
+      "drug_a": "iron supplement",
+      "drug_b": "ciprofloxacin",
+      "severity": "MODERATE",
+      "effect": "Iron chelates ciprofloxacin, markedly reducing its absorption.",
+      "action": "Administer ciprofloxacin 2 hours before iron. Do not take together."
+    },
+    {
+      "drug_a": "theophylline",
+      "drug_b": "ciprofloxacin",
+      "severity": "HIGH",
+      "effect": "Ciprofloxacin inhibits theophylline metabolism, causing theophylline toxicity (seizures, arrhythmias).",
+      "action": "Reduce theophylline dose by 30-50%. Monitor theophylline levels."
+    },
+    {
+      "drug_a": "carbamazepine",
+      "drug_b": "erythromycin",
+      "severity": "HIGH",
+      "effect": "Erythromycin inhibits carbamazepine metabolism, leading to toxicity (diplopia, ataxia).",
+      "action": "Avoid combination. Use azithromycin instead if macrolide needed."
+    },
+    {
+      "drug_a": "dextromethorphan",
+      "drug_b": "maoi",
+      "severity": "HIGH",
+      "effect": "Risk of serotonin syndrome — potentially fatal.",
+      "action": "Absolute contraindication. Never combine."
+    },
+    {
+      "drug_a": "sildenafil",
+      "drug_b": "nitrate",
+      "severity": "HIGH",
+      "effect": "Severe, potentially fatal hypotension due to additive vasodilation.",
+      "action": "Absolute contraindication. Do not prescribe together under any circumstance."
+    },
+    {
+      "drug_a": "spironolactone",
+      "drug_b": "ace inhibitor",
+      "severity": "MODERATE",
+      "effect": "Additive hyperkalaemia risk, especially in renal impairment.",
+      "action": "Monitor serum potassium and renal function regularly."
+    },
+    {
+      "drug_a": "metronidazole",
+      "drug_b": "alcohol",
+      "severity": "HIGH",
+      "effect": "Disulfiram-like reaction — severe flushing, vomiting, tachycardia.",
+      "action": "Strict alcohol abstinence during metronidazole course and 48h after last dose."
+    },
+    {
+      "drug_a": "amoxicillin",
+      "drug_b": "methotrexate",
+      "severity": "MODERATE",
+      "effect": "Amoxicillin reduces renal methotrexate clearance, increasing toxicity risk.",
+      "action": "Monitor for methotrexate toxicity signs — mucositis, cytopaenia."
+    },
+    {
+      "drug_a": "haloperidol",
+      "drug_b": "lithium",
+      "severity": "MODERATE",
+      "effect": "Increased neurotoxicity risk; can cause irreversible brain damage at therapeutic levels.",
+      "action": "Use lowest effective doses. Monitor for neurotoxicity signs."
+    }
+  ]
+}
