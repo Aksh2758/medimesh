@@ -13,7 +13,7 @@ embedchain==0.1.98
 chromadb==0.4.24
 
 numpy==1.26.4
-python-dotenv==1.0.1
+python-dotenv==1.0.0
 
 tiktoken==0.7.0
 requests==2.31.0
