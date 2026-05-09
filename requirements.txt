@@ -19,3 +19,4 @@ embedchain==0.1.98
 tiktoken==0.5.2
 
 pydantic>=2.4.1,<3.0.0
+setuptools==69.5.1
