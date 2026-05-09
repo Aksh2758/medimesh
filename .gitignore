@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+rag/chroma_db/
+eval/eval_results.json
+.gemini/
+.antigravity/
